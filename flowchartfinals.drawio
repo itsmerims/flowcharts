@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T17:11:55.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="JyJ4pZW6q4fjlfC0rugR" version="15.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-15T17:30:30.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="CebTj50FT9kia7b1ST2R" version="15.5.4" type="github" pages="3">
   <diagram id="k7m01lWhZGyPnVQjTyj0" name="Page-1">
     <mxGraphModel dx="1108" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -8,12 +8,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CU7LhziSGrBqGJUX8OZy" name="Page-2">
-    <mxGraphModel dx="2770" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="764" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="xoowQPZRBszDjU-doCPT-0" />
         <mxCell id="xoowQPZRBszDjU-doCPT-1" parent="xoowQPZRBszDjU-doCPT-0" />
         <mxCell id="_GEBrEGuPko2IthZNlTH-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=11;strokeColor=#01aeee;strokeWidth=3;labelBackgroundColor=#2a2a2a;endArrow=classic;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
-          <mxGeometry x="600" y="180" width="555" height="840" as="geometry" />
+          <mxGeometry x="608.5" y="160" width="555" height="840" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-1" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#01aeee;rounded=0;endArrow=none;endFill=0;" edge="1" parent="xoowQPZRBszDjU-doCPT-1" source="_GEBrEGuPko2IthZNlTH-4" target="_GEBrEGuPko2IthZNlTH-10">
           <mxGeometry relative="1" as="geometry" />
@@ -43,16 +43,16 @@
           <mxGeometry x="446" y="860" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-10" value="Create Projects" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;strokeColor=#1BBC9D;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
-          <mxGeometry x="649" y="230" width="175" height="110" as="geometry" />
+          <mxGeometry x="680" y="230" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-11" value="Create Teams" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;fontColor=#FFFFFF;strokeColor=#1BBC9D;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
-          <mxGeometry x="649" y="410" width="175" height="110" as="geometry" />
+          <mxGeometry x="700" y="410" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-12" value="Assign Tasks to Team" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;fontColor=#FFFFFF;strokeColor=#1BBC9D;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
-          <mxGeometry x="649" y="590" width="175" height="110" as="geometry" />
+          <mxGeometry x="700" y="590" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-13" value="Assign Tasks to Team members" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;fontColor=#FFFFFF;strokeColor=#1BBC9D;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
-          <mxGeometry x="649" y="800" width="175" height="110" as="geometry" />
+          <mxGeometry x="680" y="800" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_GEBrEGuPko2IthZNlTH-14" value="Create Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1bbc9d;fontSize=19;fontColor=#FFFFFF;strokeColor=#1BBC9D;" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
           <mxGeometry x="940" y="300" width="175" height="110" as="geometry" />
