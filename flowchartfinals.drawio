@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T21:17:16.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="nxwUWSPI0U9RtvwjzaQK" version="15.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-15T21:27:00.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="BfRlpuPLUXzJfr1CLTO4" version="15.5.4" type="github" pages="3">
   <diagram id="k7m01lWhZGyPnVQjTyj0" name="Page-1">
     <mxGraphModel dx="599" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -66,13 +66,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpM_4bH_3X7jpKGeUaUQ-25" value="Project Director?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="653.75" width="90" height="102.5" as="geometry" />
+          <mxGeometry x="780" y="653.75" width="90" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hpM_4bH_3X7jpKGeUaUQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hpM_4bH_3X7jpKGeUaUQ-27" target="hpM_4bH_3X7jpKGeUaUQ-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hpM_4bH_3X7jpKGeUaUQ-27" value="Project Manager?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="949" y="652.5" width="90" height="105" as="geometry" />
+          <mxGeometry x="940" y="652.75" width="90" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="hpM_4bH_3X7jpKGeUaUQ-29" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="665" width="80" height="80" as="geometry" />
+        <mxCell id="hpM_4bH_3X7jpKGeUaUQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hpM_4bH_3X7jpKGeUaUQ-29" target="hpM_4bH_3X7jpKGeUaUQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hpM_4bH_3X7jpKGeUaUQ-29" value="Project Leader?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="652.5" width="80" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hpM_4bH_3X7jpKGeUaUQ-32" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="665" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
