@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-10-16T00:44:07.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="V0lyU_ktbq7T4B96r4Tb" version="15.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-16T00:49:18.612Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KxGnZCs3-1GoKf01Lbx1" version="15.5.4" type="github" pages="4">
   <diagram id="GP3PnQ0_UZ8DqC637AFE" name="1">
-    <mxGraphModel dx="868" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="DS9_35YTeVJHQRKozS6N-0" />
         <mxCell id="DS9_35YTeVJHQRKozS6N-1" parent="DS9_35YTeVJHQRKozS6N-0" />
+        <mxCell id="3gSXMgGL0ZYWUpu_QiqO-0" value="SYSTEM INTEGRAGRATION AND ARCHITECTURE II &lt;br style=&quot;font-size: 49px;&quot;&gt;FINALS EXAMINATION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;fontSize=49;fontStyle=1" vertex="1" parent="DS9_35YTeVJHQRKozS6N-1">
+          <mxGeometry x="345" y="240" width="910" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="P4YwE20Afbo6vn3Ms9Ry-0" value="&lt;font style=&quot;font-size: 35px&quot;&gt;JOHN RIMUEL M. BIGATA&lt;br&gt;BSIT-4C&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#393C56;fontSize=23;fontStyle=1" vertex="1" parent="DS9_35YTeVJHQRKozS6N-1">
+          <mxGeometry x="450" y="700" width="700" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="k7m01lWhZGyPnVQjTyj0" name="2">
-    <mxGraphModel dx="1240" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="12400" dy="7114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,7 +526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CU7LhziSGrBqGJUX8OZy" name="3">
-    <mxGraphModel dx="868" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="xoowQPZRBszDjU-doCPT-0" />
         <mxCell id="xoowQPZRBszDjU-doCPT-1" parent="xoowQPZRBszDjU-doCPT-0" />
@@ -579,11 +585,14 @@
         <mxCell id="_GEBrEGuPko2IthZNlTH-16" value="Automated System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" parent="xoowQPZRBszDjU-doCPT-1" vertex="1">
           <mxGeometry x="771" y="180" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bUSbKHf-okAIuWjyvi4n-0" value="USE CASE DIAGRAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;fontSize=23;fontStyle=1" vertex="1" parent="xoowQPZRBszDjU-doCPT-1">
+          <mxGeometry x="110" y="100" width="270" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Oz9aQQk6Am4BIYY1-Td3" name="4">
-    <mxGraphModel dx="1240" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="h9BGPUR_kHKGgyNdzhqx-0" />
         <mxCell id="h9BGPUR_kHKGgyNdzhqx-1" parent="h9BGPUR_kHKGgyNdzhqx-0" />
@@ -1378,6 +1387,9 @@
         </mxCell>
         <mxCell id="h9BGPUR_kHKGgyNdzhqx-189" style="edgeStyle=orthogonalEdgeStyle;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeWidth=1;strokeColor=#006658;fontColor=#5C5C5C;" parent="h9BGPUR_kHKGgyNdzhqx-1" source="h9BGPUR_kHKGgyNdzhqx-80" target="h9BGPUR_kHKGgyNdzhqx-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyFbT32JgkZNF9Ly_biA-0" value="ENTITY RELATIONSHIP DIAGRAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;fontSize=23;fontStyle=1" vertex="1" parent="h9BGPUR_kHKGgyNdzhqx-1">
+          <mxGeometry x="70" y="50" width="410" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
